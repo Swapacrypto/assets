@@ -1,0 +1,12 @@
+{
+  "name": "SWAPA USDT",
+  "symbol": "SWAPAUSDT",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Token oficial do projeto SWAPA.",
+  "website": "https://swapa.finance",
+  "instagram": "https://instagram.com/swapacrypto",
+  "explorer": "https://bscscan.com/token/0xe38657ff1e88cab61a824e943951893fc88b8444",
+  "status": "active",
+  "id": "0xe38657ff1e88cab61a824e943951893fc88b8444"
+}
